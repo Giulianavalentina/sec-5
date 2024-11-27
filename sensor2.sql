@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS valores (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    valor_sensor INTEGER
+);
